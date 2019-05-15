@@ -10,7 +10,7 @@ This repository contains data on elevational distributions of birds in the genus
 
 # Data
 
-The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is named on the tree in Figure 3. 
+The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is labeled on the tree in Figure 3. 
 
 DNA sequence data used to construct phylogenetic trees will soon be available in GenBank and were obtained from:
 
