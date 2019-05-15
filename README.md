@@ -4,7 +4,7 @@ This repository contains data on elevational distributions of birds in the genus
 
     Cadena, C. D. & L. N. Céspedes. 2019. Origin of elevational replacements in a clade of nearly 
     flightless birds – most diversity in tropical mountains accumulates via secondary contact 
-    following allopatric speciation. 2019. In press in: Rull, V. & Carnaval, A. (eds.), 
+    following allopatric speciation. In press in: Rull, V. & Carnaval, A. (eds.), 
     Neotropical diversification. Springer, Berlin.
     https://www.biorxiv.org/content/10.1101/606558v2
 
