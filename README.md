@@ -10,5 +10,12 @@ This repository contains data on elevational distributions of birds in the genus
 
 # Data
 
-The file `Ramphocelus_data.csv` contains locality data as well as morphological measurements and plumage reflectance data taken on museum specimens.
+The file `Scytalopus_ElevationData_47taxa` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is named on the tree in Figure 3. 
 
+DNA sequence data used to construct phylogenetic trees will soon be available in GenBank and were obtained from:
+
+    Cadena, C. D., A. M. Cuervo, L. N. Céspedes, G. A. Bravo, N. Krabbe, T. S. Schulenberg, 
+    G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2019. 
+    Systematics, biogeography and diversification of Scytalopus tapaculos (Rhinocryptidae), 
+    an enigmatic radiation of Neotropical montane birds.
+    https://www.biorxiv.org/content/10.1101/600775v1
