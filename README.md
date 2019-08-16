@@ -1,6 +1,16 @@
 # Introduction
 
-This repository contains data on elevational distributions of birds in the genus Scytalopus we employed for analyses presented in:
+This repository contains data employed for studies on phylogenetics and elevational distributions of birds in the genus Scytalopus. 
+
+The molecular datasets were used for analyses of phylogeny and diversification in:
+
+    Cadena, C. D., A. M. Cuervo, L. N. Céspedes, G. A. Bravo, N. Krabbe, T. S. Schulenberg, 
+    G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2019. 
+    Systematics, biogeography and diversification of Scytalopus tapaculos (Rhinocryptidae), 
+    an enigmatic radiation of Neotropical montane birds.
+    https://www.biorxiv.org/content/10.1101/600775v1
+
+Data on elevational distributions were analyzed in:
 
     Cadena, C. D. & L. N. Céspedes. 2019. Origin of elevational replacements in a clade of nearly 
     flightless birds – most diversity in tropical mountains accumulates via secondary contact 
@@ -10,12 +20,14 @@ This repository contains data on elevational distributions of birds in the genus
 
 # Data
 
+**DNA Sequence Data**
+
+We constructed phylogenies of most Scytalopus and their near relatives using sequences of a total of 1,246,332 base pairs of nuclear DNA sequences corresponding to regions flanking 1,833 ultra conserved elements (UCEs; 1,201,528 bp) and 80 exons (44,804 bp). We here provide alignments for these regions and phylogenies resulting from concatenated and species-tree analyses. Raw data will be made available once a large-scale project on the phylogeny of suboscine birds led by M. Harvey et al. is completed.
+
+
+**Elevational Distributions**
 The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is labeled on the tree in Figure 3. 
 
-DNA sequence data used to construct phylogenetic trees will soon be available in GenBank and were obtained from:
 
-    Cadena, C. D., A. M. Cuervo, L. N. Céspedes, G. A. Bravo, N. Krabbe, T. S. Schulenberg, 
-    G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2019. 
-    Systematics, biogeography and diversification of Scytalopus tapaculos (Rhinocryptidae), 
-    an enigmatic radiation of Neotropical montane birds.
-    https://www.biorxiv.org/content/10.1101/600775v1
+
+
