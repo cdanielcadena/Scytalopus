@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains data employed for studies on phylogenetics and elevational distributions of birds in the genus Scytalopus. 
+This repository contains data employed for studies on phylogenetics and elevational distributions of birds in the genus *Scytalopus*. 
 
 The molecular datasets were used for analyses of phylogeny and diversification in:
 
@@ -22,7 +22,7 @@ Data on elevational distributions were analyzed in:
 
 **DNA Sequence Data**
 
-We constructed phylogenies of most Scytalopus and their near relatives using sequences of a total of 1,246,332 base pairs of nuclear DNA sequences corresponding to regions flanking 1,833 ultra conserved elements (UCEs; 1,201,528 bp) and 80 exons (44,804 bp). We here provide alignments for these regions and phylogenies resulting from concatenated and species-tree analyses. Raw data will be made available once a large-scale project on the phylogeny of suboscine birds led by M. Harvey et al. is completed.
+We constructed phylogenies of most *Scytalopus* and their near relatives using sequences of a total of 1,246,332 base pairs of nuclear DNA sequences corresponding to regions flanking 1,833 ultra conserved elements (UCEs; 1,201,528 bp) and 80 exons (44,804 bp). We here provide alignments for these regions and phylogenies resulting from concatenated and species-tree analyses. Raw data will be made available once a large-scale project on the phylogeny of suboscine birds led by M. Harvey et al. is completed.
 
 We also conducted phylogenetic analyses based on sequences of the mitochondrial ND2 gene for close to 300 specimens. We provide the ND2 alignment we employed here. Individual ND2 sequences were also submitted to GenBank.
 
