@@ -6,7 +6,7 @@ The molecular datasets were used for analyses of phylogeny and diversification i
 
     Cadena, C. D., A. M. Cuervo, L. N. Céspedes, G. A. Bravo, N. Krabbe, T. S. Schulenberg, 
     G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2019. 
-    Systematics, biogeography and diversification of *Scytalopus* tapaculos (Rhinocryptidae), 
+    Systematics, biogeography and diversification of Scytalopus tapaculos (Rhinocryptidae), 
     an enigmatic radiation of Neotropical montane birds.
     https://www.biorxiv.org/content/10.1101/600775v1
 
