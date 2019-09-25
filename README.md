@@ -2,7 +2,7 @@
 
 This repository contains data employed for studies on phylogenetics and elevational distributions of birds in the genus *Scytalopus*.
 
-![](images_gh/Scytalopus.jpg)
+![](images_gh/scytalopus.jpg)
 
 The molecular datasets were used for analyses of phylogeny and diversification in:
 
