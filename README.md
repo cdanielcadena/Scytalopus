@@ -32,5 +32,7 @@ We also conducted phylogenetic analyses based on sequences of the mitochondrial 
 The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is labeled on the tree in Figure 3. 
 
 
+
+
 ![](scytalopus.jpg)
 
