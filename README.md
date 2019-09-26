@@ -35,3 +35,4 @@ The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elev
 
 ![](scytalopus.jpg)
 
+**Watercolor by John Fjeldså**
