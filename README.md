@@ -15,7 +15,7 @@ Data on elevational distributions were analyzed in:
     Cadena, C. D. & L. N. Céspedes. 2020. Origin of elevational replacements in a clade of nearly 
     flightless birds – most diversity in tropical mountains accumulates via secondary contact 
     following allopatric speciation. Pp. 635-659 in: Rull, V. & Carnaval, A. (eds.), 
-    Neotropical Diversification: Patterns and Processes. Springer, Berlin.
+    Neotropical Diversification: Patterns and Processes. Springer Nature Switzerland.
     
 # Data
 
