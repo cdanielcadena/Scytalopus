@@ -5,19 +5,18 @@ This repository contains data employed for studies on phylogenetics and elevatio
 The molecular datasets were used for analyses of phylogeny and diversification in:
 
     Cadena, C. D., A. M. Cuervo, L. N. Céspedes, G. A. Bravo, N. Krabbe, T. S. Schulenberg, 
-    G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2019. 
+    G. E. Derryberry, L. F. Silveira, E. P. Derryberry, R. T. Brumfield & J. Fjeldså. 2020. 
     Systematics, biogeography and diversification of Scytalopus tapaculos (Rhinocryptidae), 
-    an enigmatic radiation of Neotropical montane birds.
-    https://www.biorxiv.org/content/10.1101/600775v1
+    an enigmatic radiation of Neotropical montane birds. The Auk 137: 1-30. 10.1093/auk/ukz077
+    
 
 Data on elevational distributions were analyzed in:
 
-    Cadena, C. D. & L. N. Céspedes. 2019. Origin of elevational replacements in a clade of nearly 
+    Cadena, C. D. & L. N. Céspedes. 2020. Origin of elevational replacements in a clade of nearly 
     flightless birds – most diversity in tropical mountains accumulates via secondary contact 
-    following allopatric speciation. In press in: Rull, V. & Carnaval, A. (eds.), 
-    Neotropical diversification. Springer, Berlin.
-    https://www.biorxiv.org/content/10.1101/606558v2
-
+    following allopatric speciation. Pp. 635-659 in: Rull, V. & Carnaval, A. (eds.), 
+    Neotropical Diversification: Patterns and Processes. Springer, Berlin.
+    
 # Data
 
 **DNA Sequence Data**
