@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains data employed for studies on phylogenetics and elevational distributions of birds in the genus *Scytalopus*.
+This repository contains data and results of studies on phylogenetics and elevational distributions of birds in the genus *Scytalopus*.
 
 The molecular datasets were used for analyses of phylogeny and diversification in:
 
@@ -28,7 +28,15 @@ We also conducted phylogenetic analyses based on sequences of the mitochondrial 
 
 **Elevational Distributions**
 
-The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is labeled on the tree in Figure 3. 
+The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elevation for the 47-taxa dataset described in the manuscript. The file `Scytalopus_ElevationData_57taxa.csv` contains minimum and maximum elevation for the 57-taxa dataset, as well as information on the specimens used to construct the phylogeny based on ND2 mitochondrial sequences, and the name with which each taxon is labeled on the tree in Figure 3.
+
+# Results
+
+**Tree files**
+
+**High-resolution Figures**
+
+Unfortunately, the figures in our Auk 2020 papers were reproduced at low resolution by the publisher. High-quality images can be downloaded.
 
 ----
 
