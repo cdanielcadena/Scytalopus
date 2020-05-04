@@ -38,7 +38,7 @@ The tree files resulting from our phylogenetic analyses are labelled as in the F
 
 **High-resolution Figures**
 
-Unfortunately, the figures in our Auk 2020 paper were reproduced at low resolution by the publisher despite our repeated requests to not do so. High-quality images can be downloaded.
+Unfortunately, the figures in our Auk 2020 paper were reproduced at low resolution by the publisher despite our repeated requests to not do so. High-quality images can be downloaded from this [folder](https://github.com/cdanielcadena/Scytalopus/tree/master/figures).
 
 ----
 
