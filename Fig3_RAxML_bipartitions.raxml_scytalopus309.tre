@@ -1,0 +1,411 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=309;
+	taxlabels
+	Acropternis_orthonyx_AMC1246
+	Eleoscytalopus_indigoticus_MZUSP91216
+	Eugralla_paradoxa_AMNH_RTC463
+	'Hylopezus.berlepschi_EF640018'
+	MCP1991
+	MCP1996
+	Merulaxis_ater_MCP1740
+	Myornis_senilis_IAvH_BT4499
+	Scelorchilus_rubecula_CC
+	'Scytalopus.affinis_72423_1'
+	'Scytalopus.altirostris_43814'
+	'Scytalopus.argentifrons_16027_1'
+	'Scytalopus.bolivianus_37419'
+	'Scytalopus.chocoensis_30006'
+	'Scytalopus.femoralis_44540'
+	'Scytalopus.macropus_KU14768_1'
+	'Scytalopus.micropterus_33612_1'
+	'Scytalopus.opacus_32213_2'
+	'Scytalopus.parkeri_32025'
+	'Scytalopus.parvirostris_1281_1'
+	'Scytalopus.parvirostris_68089'
+	'Scytalopus.robbinsi_7840'
+	'Scytalopus.spillmanni_6267'
+	acutirostris_KU_14729_JuninPER
+	acutirostris_KU_17694_JuninPER
+	acutirostris_LSU_3602_HuanucoPER
+	acutirostris_LSU_49668_JuninPER
+	acutirostris_MSB_NK172609_JuninPER
+	acutirostris_NK_163146_HuanucoPER
+	aff_Millpo_KU_17533_JuninPER
+	aff_Millpo_MSB_NK163490_JuninPER
+	aff_Millpo_NK_163491_JuninPER
+	aff_Millpo_NK_172610_JuninPER
+	aff_acutirostris_LSU_1937_PascoPER
+	aff_acutirostris_LSU_3618_HuanucoPER
+	aff_acutirostris_LSU_8117_PascoPER
+	aff_acutirostris_LSU_8188_PascoPER
+	aff_acutirostris_LSU_8230_PascoPER
+	aff_femoralis_LSU_44015_SanMartinPER
+	aff_femoralis_MSB_NK163577_AmazonasPER
+	aff_femoralis_MSB_NK163642_AmazonasPER
+	aff_meridanus_JM205_TrujilloVEN
+	aff_meridanus_JM235_TrujilloVEN
+	affinis_ZMUC_125148
+	affinis_ZMUC_125154
+	affinis_ZMUC_125154_AncashPER
+	altirostris_LSU_43813_SanMartinPER
+	alvarezlopezi_ICN_31209_RisCOL
+	alvarezlopezi_ICN_39110_RisCOL
+	argentifrons_72026_CR
+	argentifrons_LSU_12201_CartagoCR
+	argentifrons_LSU_12203_SanJoseCR
+	atratus_FMNH_390674_JuninPER
+	atratus_KU_18776_CuscoPER
+	atratus_LSU_40214_LoretoPER
+	atratus_LSU_5534_SanMartinPER
+	atratus_LSU_6166_CutucuZamoraECU
+	atratus_atratus_ZMUC_125128
+	atratus_confusus_ICN_34387_AntioquiaCOL
+	atratus_nigricans_AMC1334_TachiraVEN
+	'ayaucho.KU29247'
+	'ayaucho.KU29418'
+	bolivianus_KU_21456_PunoPER
+	bolivianus_KU_21692_PunoPER
+	bolivianus_LSU_22864_LaPazBOL
+	canus_ZMUC_134903_AntioquiaCOL
+	caracae_COP_IC1209
+	'cf.femoralis_KU_16943_AyacuchoPER'
+	cf_griseicollis_IAvH_12123_NorteCOL
+	cf_magellanicus_Mendoza_1
+	cf_magellanicus_Mendoza_2
+	cf_parkeri_LSU_32216_CajamarcaPER
+	cf_parkeri_canus_LSU_32216_CajamarcaPER
+	chocoensis_ZMUC_126137
+	diamantinensis_MCT01896_EF608554
+	diamantinensis_MCT01898_EF608553
+	diamantinensis_s126
+	femoralis_KU_17129_AyacuchoPER
+	femoralis_LSU_1600_PascoPER
+	femoralis_LSU_1777_PascoPER
+	fuscus_AMNH_RTC_392_ChacabucoCHIL
+	fuscus_AMNH_RTC_497_ChacabucoCHIL
+	gettyae_KU_14696_JX456469_JuninPER
+	gettyae_KU_14790_JX456470_JuninPER
+	gettyae_KU_14815_JX456471_JuninPER
+	gettyae_KU_14848_JX456468_JuninPER
+	gonzagai_MCP2004_RioPreto_BahiaBR
+	gonzagai_MCP2005_SerraPote_BahiaBR
+	gonzagai_MCP2006_MorroIngles_BahiaBR
+	gonzagai_MCP2007_MorroPeitoMoca_BahiaBR
+	gonzagai_MCP2013_MorroPeitoMoca_BahiaBR
+	griseicollis_IAvH_12586_BoyCOL
+	griseicollis_IAvH_BT2583_CundCOL
+	griseicollis_IAvH_BT6969_BoyCOL
+	griseicollis_gilesi_ICN_35605_SantCOL
+	griseicollis_morenoi_AMC1021_NorteCOL
+	griseicollis_morenoi_AMC912_NorteCOL
+	griseicollis_morenoi_ICN_36121_SantCOL
+	iraiensis_MCP2046
+	iraiensis_MCP2224
+	iraiensis_MCP957
+	iraiensis_MCP958
+	iraiensis_MPEG52945
+	'junin.KU17555'
+	'junin.KU17582'
+	'junin.KU17588'
+	'junin.KU17620'
+	'junin.KU17674'
+	latebricola_CDC82_StaMartaCOL
+	latebricola_ICN_23338_StaMartaCOL
+	latrans_AMC1260_TachiraVEN
+	latrans_AMC1262_TachiraVEN
+	latrans_AMC724_AntioquiaCOL
+	latrans_AMC740_AntioquiaCOL
+	latrans_IAvH_11682_CundCOL
+	latrans_IAvH_BT1708_NorteCOL
+	latrans_IAvH_BT4489_StaRosaRisCOL
+	latrans_IAvH_BT4491_StaRosaRisCOL
+	latrans_IAvH_BT44_NorteCOL
+	latrans_IAvH_BT4596_CaldasCOL
+	latrans_IAvH_BT4616_CaldasCOL
+	latrans_IAvH_BT4617_CaldasCOL
+	latrans_IAvH_BT4618_CaldasCOL
+	latrans_IAvH_BT4642_CaldasCOL
+	latrans_IAvH_BT5193_Frontino2AntCOL
+	latrans_IAvH_BT7339_SnAgustinHuiCOL
+	latrans_IAvH_BT7380_SnAgustinHuiCOL
+	latrans_IAvH_BT7454_SnAgustinHuiCOL
+	latrans_ICN_35607_YariguiesSantCOL
+	latrans_ICN_36318_SantCOL
+	latrans_LSU_6240_east_MoronaECU
+	latrans_MUA_AVP0563_AntioquiaCOL
+	latrans_ZMUC_125112_east
+	latrans_intermedius_LSU_49704_AmazonasPER
+	latrans_intermedius_LSU_814_SanMartinPER
+	latrans_intermedius_LSU_815_SanMartinPER
+	latrans_intermedius_MSB_NK167505_AmazonasPER
+	latrans_intermedius_MSB_NK167567_AmazonasPER
+	latrans_intermedius_MSB_NK167703_AmazonasPER
+	latrans_subcinereus_LSU_424_PiuraPER
+	latrans_subcinereus_ZMUC_125127
+	macropus_KU_14812_JuninPER
+	macropus_LSU_7721_HuanucoPER
+	macropus_LSU_812_SanMartinPER
+	macropus_LSU_8409_PascoPER
+	magellanicus_AMNH_RTC_449_Region8CHIL
+	magellanicus_AMNH_RTC_451_Region8CHIL
+	magellanicus_KU_11691_RioNegroARG
+	meridanus_AMC1080_TachiraVEN
+	meridanus_AMC1121_TachiraVEN
+	meridanus_AMC1140_TachiraVEN
+	meridanus_AMC1152_TachiraVEN
+	meridanus_AMC1218_TachiraVEN
+	meridanus_AMC1227_TachiraVEN
+	meridanus_AMC1228_TachiraVEN
+	meridanus_JEM203_TachiraVEN
+	meridanus_YPL87_TachiraVEN
+	micropterus_IAvH_BT1241_AcevedoHuiCOL
+	micropterus_IAvH_BT2284_PalestinaHuiCOL
+	micropterus_IAvH_BT2306_PalestinaHuiCOL
+	micropterus_IAvH_BT245_CaucaCOL
+	micropterus_LSU_33009_CajamarcaPER
+	novacapitalis_MCP1481
+	novacapitalis_MCP1865
+	novacapitalis_MZUSP78807
+	opacus_androstictus_LSU_31950_CajamarcaPER
+	opacus_androstictus_ZMUC_125688_ZamoraECU
+	opacus_opacus_ZMUC_125150_MoronaECU
+	pachecoi_MCP1015
+	pachecoi_MCP1016
+	pachecoi_MCP1023
+	pachecoi_MCP1039
+	pachecoi_MCP1040
+	pachecoi_MCP1043
+	pachecoi_MCP1075
+	pachecoi_MCP1082
+	pachecoi_MCP1174
+	pachecoi_MCP1179
+	pachecoi_MCP1183
+	pachecoi_MCP1188
+	pachecoi_MCP1189
+	pachecoi_MCP1190
+	pachecoi_MCP949
+	pachecoi_MCP952
+	pachecoi_MCP959
+	pachecoi_MCP961
+	pachecoi_MCP962
+	pachecoi_MCP976
+	pachecoi_MCP994
+	panamensis_JEA1019_TakarkunaCOL
+	parkeri_LSU_33893_CajamarcaPER
+	parkeri_LSU_390_CajamarcaPER
+	parvirostris_FMNH390670_JuninPER
+	parvirostris_KU_21615_PunoPER
+	parvirostris_KU_21648_PunoPER
+	parvirostris_LSU8096_N_PascoPER
+	parvirostris_LSU_1292_LaPazBOL
+	parvirostris_MSB_NK168409_CuscoPER
+	perijanus_AMC868_PerijaCOL
+	perijanus_AMC882_PerijaCOL
+	perijanus_AMC891_PerijaCOL
+	perijanus_JEAC686_PerijaCOL
+	perijanus_JEAC693_PerijaCOL
+	perijanus_JEAC710_PerijaCOL
+	perijanus_JPL062_PerijaCOL
+	perijanus_JPL236_PerijaCOL
+	perijanus_NGP35_PerijaCOL
+	perijanus_NGP45_PerijaCOL
+	petrophilus_MCP1509
+	petrophilus_MCP1510
+	petrophilus_MCP2204
+	petrophilus_MCP2208
+	petrophilus_MCP2212
+	petrophilus_MCP2213
+	petrophilus_MCP2216
+	petrophilus_MCP2217
+	petrophilus_MCP2219
+	petrophilus_MCP2220
+	petrophilus_MCP2222
+	petrophilus_MCP2223
+	petrophilus_MCP_2215
+	robbinsi_ZMUC_125057_ECU
+	rodriguezi_ZMUC_131300_HuilaCOL
+	rodriguezi_yariguiorum_ICN_35821_SantCOL
+	rodriguezi_yariguiorum_ICN_36178_SantCOL
+	sanctaemartae_CDC_087_StaMartaCOL
+	schulenbergi_KU_21362_PunoPER
+	schulenbergi_LSU_1278_LaPazBOL
+	'simonsi.KU21317'
+	'simonsi.KU21333'
+	'simonsi.KU21351'
+	'simonsi.KU21398'
+	'simonsi.KU21399'
+	simonsi_KU_21363_PunoPER
+	simonsi_MSB_NK159774_CuscoPER
+	simonsi_ZMUC_125153
+	sp_LSU_7677_Unchog_HuanucoPER
+	sp_MSB_NK162552_LambayequePER
+	sp_MSB_NK162582_LambayequePER
+	sp_NK_162575_LambayequePER
+	sp_NK_162709_LambayequePER
+	sp_nov_LSU_58427_ApurimacPER
+	sp_nov_LSU_58462_ApurimacPER
+	sp_nov_LSU_8334_Millpo_PascoPER
+	sp_nov_LSU_8381_Millpo_HuanucoPascoPER
+	sp_nov_LSU_8382_Millpo_HuanucoPER
+	sp_nov_NK_169142_ApurimacPER
+	sp_nov_NK_169178_ApurimacPER
+	sp_nov_ZMUC_125144_Ampay
+	speluncae_MCP1076
+	speluncae_MCP1106
+	speluncae_MCP1169
+	speluncae_MCP1170
+	speluncae_MCP1172
+	speluncae_MCP1173
+	speluncae_MCP1175
+	speluncae_MCP1176
+	speluncae_MCP1177
+	speluncae_MCP1723_north_Caparao
+	speluncae_MCP1736
+	speluncae_MCP1737
+	speluncae_MCP1738
+	speluncae_MCP1739
+	speluncae_MCP1990
+	speluncae_MCP1994
+	speluncae_MCP2000
+	speluncae_MCP2032
+	speluncae_MCP2033
+	speluncae_MCP2037
+	speluncae_MCP2038
+	speluncae_MCP2040
+	speluncae_MCP2041
+	speluncae_MCP2042
+	speluncae_MCP2225
+	speluncae_MCP983
+	speluncae_MCP984
+	speluncae_MCP985
+	speluncae_MCP987
+	speluncae_MCP988
+	spillmanni_IAvH_BT3995_TatamaRisCOL
+	spillmanni_IAvH_BT4026_TatamaRisCOL
+	spillmanni_IAvH_BT4079_TatamaRisCOL
+	spillmanni_IAvH_BT4521_StaRosaRisCOL
+	spillmanni_IAvH_BT4547_RetiroAntCOL
+	spillmanni_IAvH_BT4609_CaldasCOL
+	spillmanni_IAvH_BT4646_CaldasCOL
+	spillmanni_IAvH_BT6711_FusaCundCOL
+	spillmanni_IAvH_BT7324_SnAgustinHuiCOL
+	spillmanni_ICN_35605_SantanderCOL
+	spillmanni_ZMUC_125080
+	spillmanni_ZMUC_134848_west
+	spillmanni_ZMUC_134988_FrontinoAntCOL
+	stilesi_AMC530_AntioquiaCOL
+	stilesi_IAvH_BT2119__AntioquiaCOL
+	stilesi_ICN_34512_AntioquiaCOL
+	stilesi_ICN_34569_AntioquiaCOL
+	superciliaris_MBM_8242
+	superciliaris_MBM_8487
+	superciliaris_santabarbarae_KU_9709_JujuyARG
+	unicolor_MSB_35157
+	'urubambae.KU29456'
+	'urubambae.KU29645'
+	urubambae_ZMUC
+	vicinior_IAvH_BT2487_CumbreValleCOL
+	vicinior_IAvH_BT3579_CaucaCOL
+	vicinior_IAvH_BT4240_CumbreValleCOL
+	vicinior_ICN_34840
+	vicinior_ZMUC_125176
+	zimmeri_ZMUC_126277
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((Scelorchilus_rubecula_CC:0.431348,Acropternis_orthonyx_AMC1246:0.637583)[&label=99]:0.145936,(((Eugralla_paradoxa_AMNH_RTC463:0.36207,(((((('Scytalopus.argentifrons_16027_1':1.0E-6,(argentifrons_72026_CR:0.005566,(argentifrons_LSU_12201_CartagoCR:0.005624,argentifrons_LSU_12203_SanJoseCR:1.0E-6)[&label=49]:1.0E-6)[&label=63]:0.001818)[&label=100]:0.106788,((panamensis_JEA1019_TakarkunaCOL:0.041444,(chocoensis_ZMUC_126137:1.0E-6,'Scytalopus.chocoensis_30006':1.0E-6)[&label=100]:0.045485)[&label=100]:0.073952,((vicinior_ZMUC_125176:1.0E-6,(vicinior_IAvH_BT3579_CaucaCOL:1.0E-6,vicinior_IAvH_BT2487_CumbreValleCOL:1.0E-6)[&label=95]:0.001808)[&label=86]:0.003626,(vicinior_IAvH_BT4240_CumbreValleCOL:1.0E-6,vicinior_ICN_34840:1.0E-6)[&label=85]:1.0E-6)[&label=100]:0.095986)[&label=89]:0.006294)[&label=97,!rotate=true]:0.063672,((rodriguezi_ZMUC_131300_HuilaCOL:0.010318,(rodriguezi_yariguiorum_ICN_36178_SantCOL:1.0E-6,rodriguezi_yariguiorum_ICN_35821_SantCOL:0.001772)[&label=100]:0.014662)[&label=100]:0.033033,(((alvarezlopezi_ICN_31209_RisCOL:0.003605,alvarezlopezi_ICN_39110_RisCOL:1.0E-6)[&label=100]:0.059398,(robbinsi_ZMUC_125057_ECU:0.001825,'Scytalopus.robbinsi_7840':1.0E-6)[&label=100]:0.043968)[&label=74]:0.00447,(stilesi_ICN_34512_AntioquiaCOL:1.0E-6,(stilesi_AMC530_AntioquiaCOL:0.003519,(stilesi_IAvH_BT2119__AntioquiaCOL:1.0E-6,stilesi_ICN_34569_AntioquiaCOL:1.0E-6)[&label=55]:1.0E-6)[&label=56]:0.001759)[&label=100]:0.055897)[&label=74]:0.009956)[&label=100]:0.092567)[&label=12]:1.0E-6,(((((aff_meridanus_JM235_TrujilloVEN:1.0E-6,aff_meridanus_JM205_TrujilloVEN:1.0E-6)[&label=100]:0.061535,((meridanus_JEM203_TachiraVEN:1.0E-6,(((meridanus_AMC1227_TachiraVEN:1.0E-6,meridanus_AMC1140_TachiraVEN:1.0E-6)[&label=7]:1.0E-6,meridanus_AMC1152_TachiraVEN:1.0E-6)[&label=4]:1.0E-6,(meridanus_AMC1228_TachiraVEN:1.0E-6,meridanus_AMC1218_TachiraVEN:1.0E-6)[&label=10]:1.0E-6)[&label=2]:1.0E-6)[&label=68]:0.001817,((meridanus_AMC1080_TachiraVEN:0.009725,meridanus_AMC1121_TachiraVEN:1.0E-6)[&label=64]:0.001819,meridanus_YPL87_TachiraVEN:1.0E-6)[&label=28]:1.0E-6)[&label=100]:0.038692)[&label=100]:0.04526,(('Scytalopus.parkeri_32025':0.00754,((cf_parkeri_LSU_32216_CajamarcaPER:1.0E-6,cf_parkeri_canus_LSU_32216_CajamarcaPER:1.0E-6)[&label=100]:0.002051,(parkeri_LSU_390_CajamarcaPER:1.0E-6,parkeri_LSU_33893_CajamarcaPER:0.003991)[&label=84]:0.00182)[&label=100]:0.011828)[&label=100,!rotate=true]:0.068725,((((spillmanni_ZMUC_134848_west:1.0E-6,spillmanni_ZMUC_134988_FrontinoAntCOL:1.0E-6)[&label=87]:1.0E-6,spillmanni_IAvH_BT3995_TatamaRisCOL:0.001793)[&label=60]:1.0E-6,(spillmanni_IAvH_BT4079_TatamaRisCOL:0.007323,spillmanni_IAvH_BT4026_TatamaRisCOL:0.001781)[&label=63]:0.001815)[&label=100]:0.018624,((spillmanni_IAvH_BT7324_SnAgustinHuiCOL:1.0E-6,(spillmanni_ICN_35605_SantanderCOL:0.005473,spillmanni_IAvH_BT6711_FusaCundCOL:0.007457)[&label=83]:0.003651)[&label=91]:0.008487,(('Scytalopus.spillmanni_6267':0.003826,spillmanni_ZMUC_125080:0.003836)[&label=100]:0.024917,((spillmanni_IAvH_BT4521_StaRosaRisCOL:1.0E-6,spillmanni_IAvH_BT4646_CaldasCOL:1.0E-6)[&label=92]:0.001758,(spillmanni_IAvH_BT4547_RetiroAntCOL:0.001795,spillmanni_IAvH_BT4609_CaldasCOL:1.0E-6)[&label=85]:0.001788)[&label=94]:0.011629)[&label=47]:0.001834)[&label=58]:0.005247)[&label=100,!rotate=true]:0.054926)[&label=100,!rotate=true]:0.039173)[&label=42]:0.007354,(caracae_COP_IC1209:0.114273,((griseicollis_IAvH_BT2583_CundCOL:7.23E-4,(griseicollis_IAvH_BT6969_BoyCOL:0.003716,(griseicollis_gilesi_ICN_35605_SantCOL:1.0E-6,griseicollis_IAvH_12586_BoyCOL:1.0E-6)[&label=91]:0.001736)[&label=99]:0.010284)[&label=100]:0.06245,(((griseicollis_morenoi_ICN_36121_SantCOL:1.0E-6,griseicollis_morenoi_AMC912_NorteCOL:1.0E-6)[&label=38]:1.0E-6,griseicollis_morenoi_AMC1021_NorteCOL:0.001831)[&label=57]:1.0E-6,cf_griseicollis_IAvH_12123_NorteCOL:0.001833)[&label=100]:0.078336)[&label=99]:0.043339)[&label=54]:0.006989)[&label=14]:0.001437,((perijanus_JPL062_PerijaCOL:0.001651,((perijanus_NGP35_PerijaCOL:1.0E-6,((perijanus_JEAC693_PerijaCOL:1.0E-6,(perijanus_JPL236_PerijaCOL:1.0E-6,(perijanus_AMC891_PerijaCOL:1.0E-6,(perijanus_NGP45_PerijaCOL:1.0E-6,perijanus_JEAC710_PerijaCOL:1.0E-6)[&label=3]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(perijanus_AMC882_PerijaCOL:1.0E-6,perijanus_AMC868_PerijaCOL:1.0E-6)[&label=5]:1.0E-6)[&label=1]:1.0E-6)[&label=75]:1.0E-6,perijanus_JEAC686_PerijaCOL:1.0E-6)[&label=49]:1.0E-6)[&label=100]:0.080959,(latebricola_ICN_23338_StaMartaCOL:1.0E-6,latebricola_CDC82_StaMartaCOL:1.0E-6)[&label=100]:0.10506)[&label=59]:0.016091)[&label=92,!rotate=true]:0.049119)[&label=84]:0.039043,((((('Scytalopus.parvirostris_68089':0.060342,(parvirostris_KU_21648_PunoPER:0.001659,parvirostris_KU_21615_PunoPER:0.002179)[&label=100]:0.069658)[&label=51]:0.006348,(parvirostris_LSU_1292_LaPazBOL:1.0E-6,'Scytalopus.parvirostris_1281_1':0.001822)[&label=100]:0.064078)[&label=73]:0.026044,(parvirostris_FMNH390670_JuninPER:0.095747,parvirostris_MSB_NK168409_CuscoPER:0.04143)[&label=89]:0.037631)[&label=30]:0.010391,parvirostris_LSU8096_N_PascoPER:0.081037)[&label=99]:0.087464,(((atratus_LSU_5534_SanMartinPER:0.095188,(((atratus_LSU_6166_CutucuZamoraECU:0.028065,(atratus_confusus_ICN_34387_AntioquiaCOL:0.002117,atratus_atratus_ZMUC_125128:0.012794)[&label=90]:0.006112)[&label=100]:0.084008,atratus_LSU_40214_LoretoPER:0.108869)[&label=47]:0.013183,(sanctaemartae_CDC_087_StaMartaCOL:0.082682,atratus_nigricans_AMC1334_TachiraVEN:0.084347)[&label=99]:0.059477)[&label=51]:0.009678)[&label=57]:0.025672,((atratus_FMNH_390674_JuninPER:0.00963,atratus_KU_18776_CuscoPER:1.0E-6)[&label=100]:0.130927,('Scytalopus.bolivianus_37419':0.015824,(bolivianus_KU_21456_PunoPER:0.003598,(bolivianus_LSU_22864_LaPazBOL:1.0E-6,bolivianus_KU_21692_PunoPER:0.001784)[&label=64]:1.0E-6)[&label=100]:0.014759)[&label=99]:0.064787)[&label=81]:0.020607)[&label=100]:0.098425,((((macropus_LSU_7721_HuanucoPER:0.002074,macropus_LSU_812_SanMartinPER:0.002347)[&label=100]:0.015817,('Scytalopus.macropus_KU14768_1':0.001789,(macropus_LSU_8409_PascoPER:0.001802,macropus_KU_14812_JuninPER:1.0E-6)[&label=38]:1.0E-6)[&label=94]:0.01537)[&label=100]:0.041883,(latrans_intermedius_LSU_49704_AmazonasPER:0.001565,((latrans_intermedius_MSB_NK167567_AmazonasPER:1.0E-6,latrans_intermedius_MSB_NK167505_AmazonasPER:0.001844)[&label=49]:1.0E-6,(latrans_intermedius_MSB_NK167703_AmazonasPER:0.001864,(latrans_intermedius_LSU_815_SanMartinPER:0.001905,latrans_intermedius_LSU_814_SanMartinPER:1.0E-6)[&label=60]:1.0E-6)[&label=61]:0.001854)[&label=62]:0.002127)[&label=100]:0.055523)[&label=100]:0.057535,((latrans_AMC724_AntioquiaCOL:0.001812,(((((latrans_IAvH_BT4617_CaldasCOL:1.0E-6,latrans_IAvH_BT4616_CaldasCOL:1.0E-6)[&label=14]:1.0E-6,latrans_MUA_AVP0563_AntioquiaCOL:1.0E-6)[&label=4]:1.0E-6,latrans_IAvH_BT4642_CaldasCOL:1.0E-6)[&label=26]:1.0E-6,(latrans_IAvH_BT4491_StaRosaRisCOL:0.001881,(latrans_IAvH_BT4596_CaldasCOL:0.001872,latrans_IAvH_BT4618_CaldasCOL:0.005647)[&label=30]:1.0E-6)[&label=8]:1.0E-6)[&label=17]:1.0E-6,(latrans_AMC740_AntioquiaCOL:1.0E-6,latrans_IAvH_BT4489_StaRosaRisCOL:1.0E-6)[&label=64]:0.00188)[&label=70]:0.00197)[&label=83]:0.004303,((((((((((femoralis_LSU_1600_PascoPER:1.0E-6,femoralis_LSU_1777_PascoPER:0.005779)[&label=96]:0.003598,('cf.femoralis_KU_16943_AyacuchoPER':1.0E-6,femoralis_KU_17129_AyacuchoPER:1.0E-6)[&label=99]:0.003905)[&label=98]:0.013853,((aff_femoralis_MSB_NK163642_AmazonasPER:0.007741,(aff_femoralis_LSU_44015_SanMartinPER:1.0E-6,aff_femoralis_MSB_NK163577_AmazonasPER:0.001854)[&label=76]:1.0E-6)[&label=87]:0.003726,'Scytalopus.femoralis_44540':0.001881)[&label=100]:0.01545)[&label=70]:0.004049,((acutirostris_LSU_49668_JuninPER:0.001907,(acutirostris_MSB_NK172609_JuninPER:0.00191,(acutirostris_KU_14729_JuninPER:1.0E-6,acutirostris_KU_17694_JuninPER:1.0E-6)[&label=52]:1.0E-6)[&label=51]:1.0E-6)[&label=100]:0.015763,((gettyae_KU_14848_JX456468_JuninPER:1.0E-6,gettyae_KU_14815_JX456471_JuninPER:1.0E-6)[&label=74]:1.0E-6,(gettyae_KU_14696_JX456469_JuninPER:1.0E-6,gettyae_KU_14790_JX456470_JuninPER:1.0E-6)[&label=72]:0.001894)[&label=100]:0.019779)[&label=27]:1.0E-6)[&label=40]:0.001924,(latrans_IAvH_BT5193_Frontino2AntCOL:0.023721,((micropterus_LSU_33009_CajamarcaPER:0.001855,'Scytalopus.micropterus_33612_1':0.003841)[&label=100]:0.016173,(micropterus_IAvH_BT1241_AcevedoHuiCOL:0.005566,(micropterus_IAvH_BT245_CaucaCOL:0.001862,(micropterus_IAvH_BT2306_PalestinaHuiCOL:1.0E-6,micropterus_IAvH_BT2284_PalestinaHuiCOL:1.0E-6)[&label=77]:1.0E-6)[&label=57]:1.0E-6)[&label=72]:0.001328)[&label=93]:0.010203)[&label=63]:0.001896)[&label=5]:1.0E-6,(((aff_acutirostris_LSU_8117_PascoPER:0.001857,(aff_acutirostris_LSU_8188_PascoPER:1.0E-6,aff_acutirostris_LSU_8230_PascoPER:1.0E-6)[&label=99]:1.0E-6)[&label=90]:0.003753,((acutirostris_LSU_3602_HuanucoPER:1.0E-6,aff_acutirostris_LSU_3618_HuanucoPER:1.0E-6)[&label=31]:1.0E-6,acutirostris_NK_163146_HuanucoPER:1.0E-6)[&label=94]:0.001888)[&label=100]:0.009712,aff_acutirostris_LSU_1937_PascoPER:0.007712)[&label=98]:0.014445)[&label=2]:1.0E-6,(unicolor_MSB_35157:0.06377,((sp_MSB_NK162552_LambayequePER:1.0E-6,(sp_NK_162575_LambayequePER:1.0E-6,sp_NK_162709_LambayequePER:1.0E-6)[&label=38]:1.0E-6)[&label=77]:1.0E-6,sp_MSB_NK162582_LambayequePER:0.00383)[&label=100]:0.012374)[&label=21]:0.003351)[&label=4]:1.0E-6,(latrans_subcinereus_LSU_424_PiuraPER:0.014499,(latrans_subcinereus_ZMUC_125127:0.010058,(latrans_LSU_6240_east_MoronaECU:0.00404,latrans_ZMUC_125112_east:0.002182)[&label=100]:0.004966)[&label=99]:0.01173)[&label=85]:0.011644)[&label=8]:0.001978,(latrans_ICN_36318_SantCOL:0.009678,((latrans_AMC1260_TachiraVEN:1.0E-6,latrans_AMC1262_TachiraVEN:1.0E-6)[&label=90]:0.003748,(latrans_IAvH_BT1708_NorteCOL:1.0E-6,latrans_IAvH_BT44_NorteCOL:1.0E-6)[&label=92]:1.0E-6)[&label=99]:0.00887)[&label=96]:0.006864)[&label=23]:0.00565,((latrans_IAvH_11682_CundCOL:1.0E-6,latrans_ICN_35607_YariguiesSantCOL:1.0E-6)[&label=100]:0.015597,((latrans_IAvH_BT7339_SnAgustinHuiCOL:0.00184,latrans_IAvH_BT7380_SnAgustinHuiCOL:0.001853)[&label=11]:1.0E-6,latrans_IAvH_BT7454_SnAgustinHuiCOL:1.0E-6)[&label=70]:1.0E-6)[&label=92]:0.007666)[&label=37]:0.005464)[&label=100]:0.085232)[&label=100]:0.06624)[&label=51]:0.008467)[&label=15]:1.0E-6)[&label=77]:0.053996,(((((((speluncae_MCP1990:1.0E-6,MCP1991:1.0E-6)[&label=100]:0.036941,(speluncae_MCP2041:0.001947,((((speluncae_MCP1738:1.0E-6,speluncae_MCP2040:1.0E-6)[&label=16]:1.0E-6,speluncae_MCP2038:1.0E-6)[&label=30]:1.0E-6,speluncae_MCP2037:0.001949)[&label=37]:1.0E-6,speluncae_MCP2042:0.003909)[&label=54]:1.0E-6)[&label=100]:0.039201)[&label=93]:0.006878,(((speluncae_MCP1170:1.0E-6,((((speluncae_MCP1169:1.0E-6,(speluncae_MCP988:1.0E-6,speluncae_MCP987:1.0E-6)[&label=6]:1.0E-6)[&label=3]:1.0E-6,speluncae_MCP983:1.0E-6)[&label=5]:1.0E-6,speluncae_MCP1076:1.0E-6)[&label=41]:1.0E-6,(speluncae_MCP984:1.0E-6,speluncae_MCP985:1.0E-6)[&label=80]:0.001962)[&label=67]:0.001963)[&label=62]:0.001966,speluncae_MCP1737:1.0E-6)[&label=61]:0.00198,(speluncae_MCP1106:0.001979,(speluncae_MCP1175:0.003998,(((((speluncae_MCP2033:0.010878,speluncae_MCP2032:0.007117)[&label=66]:0.003214,(speluncae_MCP1736:0.014002,speluncae_MCP1176:0.001958)[&label=49]:0.002046)[&label=9]:1.0E-6,speluncae_MCP2225:0.010546)[&label=7]:1.0E-6,speluncae_MCP1739:1.0E-6)[&label=25]:1.0E-6,speluncae_MCP2000:0.003998)[&label=18]:1.0E-6)[&label=53]:0.001998)[&label=36]:1.0E-6)[&label=100]:0.059676)[&label=100]:0.06821,((MCP1996:1.0E-6,speluncae_MCP1994:1.0E-6)[&label=100]:0.047221,(speluncae_MCP1723_north_Caparao:0.020956,(speluncae_MCP1173:0.00169,(speluncae_MCP1172:1.0E-6,speluncae_MCP1177:0.003722)[&label=86]:0.002005)[&label=100]:0.040165)[&label=99]:0.025236)[&label=100]:0.082106)[&label=91]:0.012635,((((gonzagai_MCP2013_MorroPeitoMoca_BahiaBR:0.001774,gonzagai_MCP2005_SerraPote_BahiaBR:0.001777)[&label=9]:1.0E-6,gonzagai_MCP2007_MorroPeitoMoca_BahiaBR:1.0E-6)[&label=32]:1.0E-6,gonzagai_MCP2004_RioPreto_BahiaBR:0.001784)[&label=65]:0.003557,gonzagai_MCP2006_MorroIngles_BahiaBR:0.001769)[&label=100]:0.152059)[&label=96]:0.048344,(((petrophilus_MCP2212:0.0031,(petrophilus_MCP_2215:0.009057,(petrophilus_MCP2217:1.0E-6,(petrophilus_MCP1509:1.0E-6,(((petrophilus_MCP2204:1.0E-6,petrophilus_MCP2222:1.0E-6)[&label=44]:1.0E-6,petrophilus_MCP2219:1.0E-6)[&label=3]:1.0E-6,(((petrophilus_MCP2213:1.0E-6,petrophilus_MCP2220:1.0E-6)[&label=34]:1.0E-6,petrophilus_MCP1510:1.0E-6)[&label=28]:1.0E-6,((petrophilus_MCP2216:0.003632,petrophilus_MCP2208:0.003433)[&label=66]:0.003431,petrophilus_MCP2223:0.003457)[&label=27]:1.0E-6)[&label=15]:1.0E-6)[&label=0]:1.0E-6)[&label=1]:1.0E-6)[&label=59]:1.0E-6)[&label=69]:0.003262)[&label=100]:0.029054,((novacapitalis_MCP1865:0.006085,(novacapitalis_MCP1481:1.0E-6,novacapitalis_MZUSP78807:0.001981)[&label=59]:1.0E-6)[&label=100]:0.02597,((diamantinensis_MCT01898_EF608553:0.003794,(diamantinensis_MCT01896_EF608554:1.0E-6,diamantinensis_s126:1.0E-6)[&label=77]:1.0E-6)[&label=100]:0.037953,((pachecoi_MCP1174:0.003013,pachecoi_MCP994:1.0E-6)[&label=94]:0.007057,(((pachecoi_MCP1082:1.0E-6,((pachecoi_MCP961:1.0E-6,pachecoi_MCP959:1.0E-6)[&label=68]:1.0E-6,(pachecoi_MCP962:1.0E-6,pachecoi_MCP949:1.0E-6)[&label=59]:1.0E-6)[&label=63]:1.0E-6)[&label=63]:0.00202,(((pachecoi_MCP976:1.0E-6,pachecoi_MCP1179:1.0E-6)[&label=67]:1.0E-6,pachecoi_MCP1023:1.0E-6)[&label=29]:1.0E-6,pachecoi_MCP952:1.0E-6)[&label=45]:0.002656)[&label=83]:0.005378,(pachecoi_MCP1190:1.0E-6,(pachecoi_MCP1189:0.003069,((pachecoi_MCP1075:1.0E-6,(pachecoi_MCP1015:1.0E-6,(pachecoi_MCP1039:1.0E-6,(pachecoi_MCP1016:1.0E-6,pachecoi_MCP1183:0.003086)[&label=13]:1.0E-6)[&label=31]:1.0E-6)[&label=6]:1.0E-6)[&label=36]:1.0E-6,(pachecoi_MCP1188:1.0E-6,(pachecoi_MCP1043:1.0E-6,pachecoi_MCP1040:1.0E-6)[&label=27]:1.0E-6)[&label=28]:1.0E-6)[&label=27]:1.0E-6)[&label=66]:0.003074)[&label=50]:1.0E-6)[&label=74]:0.001507)[&label=100]:0.057093)[&label=79]:0.014788)[&label=53]:0.007505)[&label=100]:0.095312,(((iraiensis_MCP958:1.0E-6,iraiensis_MCP957:1.0E-6)[&label=61]:0.002246,(iraiensis_MPEG52945:1.0E-6,iraiensis_MCP2224:1.0E-6)[&label=97]:0.004628)[&label=71]:5.83E-4,iraiensis_MCP2046:0.022306)[&label=100]:0.20366)[&label=59]:0.014647)[&label=71,!rotate=true]:0.023293,((((((superciliaris_MBM_8487:1.0E-6,superciliaris_MBM_8242:1.0E-6)[&label=100]:0.005535,superciliaris_santabarbarae_KU_9709_JujuyARG:0.004072)[&label=100]:0.071398,(((('simonsi.KU21398':1.0E-6,'simonsi.KU21351':1.0E-6)[&label=100]:0.003199,('simonsi.KU21317':1.0E-6,((simonsi_KU_21363_PunoPER:1.0E-6,'simonsi.KU21333':1.0E-6)[&label=21]:1.0E-6,'simonsi.KU21399':1.0E-6)[&label=21]:1.0E-6)[&label=97]:0.004348)[&label=100]:0.025084,(simonsi_ZMUC_125153:0.003874,simonsi_MSB_NK159774_CuscoPER:1.0E-6)[&label=100]:0.028155)[&label=90]:0.029029,zimmeri_ZMUC_126277:0.057756)[&label=95]:0.023949)[&label=75]:0.009787,((((((aff_Millpo_KU_17533_JuninPER:0.001963,('junin.KU17588':1.0E-6,((aff_Millpo_NK_163491_JuninPER:1.0E-6,'junin.KU17582':1.0E-6)[&label=4]:1.0E-6,((aff_Millpo_NK_172610_JuninPER:1.0E-6,('junin.KU17620':1.0E-6,aff_Millpo_MSB_NK163490_JuninPER:1.0E-6)[&label=5]:1.0E-6)[&label=2]:1.0E-6,('junin.KU17555':1.0E-6,'junin.KU17674':1.0E-6)[&label=3]:1.0E-6)[&label=2]:1.0E-6)[&label=4]:1.0E-6)[&label=60]:1.0E-6)[&label=100]:0.044438,((sp_nov_LSU_8381_Millpo_HuanucoPascoPER:1.0E-6,sp_nov_LSU_8334_Millpo_PascoPER:1.0E-6)[&label=100]:1.0E-6,sp_nov_LSU_8382_Millpo_HuanucoPER:1.0E-6)[&label=100]:0.021315)[&label=100]:0.024975,sp_LSU_7677_Unchog_HuanucoPER:0.042177)[&label=99]:0.034771,(urubambae_ZMUC:0.015486,('urubambae.KU29456':1.0E-6,'urubambae.KU29645':1.0E-6)[&label=100]:0.004474)[&label=100]:0.043567)[&label=49]:0.004398,(schulenbergi_KU_21362_PunoPER:0.020488,schulenbergi_LSU_1278_LaPazBOL:0.033586)[&label=58]:0.007529)[&label=39]:0.002731,(('ayaucho.KU29418':1.0E-6,'ayaucho.KU29247':1.0E-6)[&label=100]:0.006144,(sp_nov_ZMUC_125144_Ampay:0.003503,(sp_nov_LSU_58427_ApurimacPER:1.0E-6,((sp_nov_NK_169178_ApurimacPER:1.0E-6,sp_nov_NK_169142_ApurimacPER:1.0E-6)[&label=36]:1.0E-6,sp_nov_LSU_58462_ApurimacPER:1.0E-6)[&label=12]:1.0E-6)[&label=90]:1.0E-6)[&label=100]:0.015796)[&label=100]:0.076384)[&label=67]:0.007618)[&label=100,!rotate=true]:0.0763,((affinis_ZMUC_125148:0.002003,('Scytalopus.affinis_72423_1':1.0E-6,(affinis_ZMUC_125154:1.0E-6,affinis_ZMUC_125154_AncashPER:1.0E-6)[&label=97]:0.001976)[&label=59]:1.0E-6)[&label=100]:0.146145,(((canus_ZMUC_134903_AntioquiaCOL:0.07697,opacus_opacus_ZMUC_125150_MoronaECU:0.073516)[&label=84]:0.013561,(opacus_androstictus_ZMUC_125688_ZamoraECU:0.00205,('Scytalopus.opacus_32213_2':0.00203,opacus_androstictus_LSU_31950_CajamarcaPER:1.0E-6)[&label=50]:1.0E-6)[&label=100]:0.052575)[&label=100]:0.052484,(altirostris_LSU_43813_SanMartinPER:0.005636,'Scytalopus.altirostris_43814':1.0E-6)[&label=100]:0.146911)[&label=25]:0.007775)[&label=61,!rotate=true]:0.004706)[&label=96,!rotate=true]:0.036432,((magellanicus_AMNH_RTC_449_Region8CHIL:0.001894,((cf_magellanicus_Mendoza_2:1.0E-6,cf_magellanicus_Mendoza_1:1.0E-6)[&label=96]:0.001849,(magellanicus_AMNH_RTC_451_Region8CHIL:0.001857,magellanicus_KU_11691_RioNegroARG:0.003726)[&label=99]:0.009523)[&label=5]:1.0E-6)[&label=100]:0.132485,(fuscus_AMNH_RTC_497_ChacabucoCHIL:1.0E-6,fuscus_AMNH_RTC_392_ChacabucoCHIL:0.002361)[&label=100]:0.108527)[&label=84]:0.032654)[&label=81,!rotate=false]:0.039733)[&label=68,!rotate=true]:0.030955)[&label=95,!rotate=true]:0.112142)[&label=80]:0.072167,Myornis_senilis_IAvH_BT4499:0.371198)[&label=87]:0.092426,(Merulaxis_ater_MCP1740:0.465768,Eleoscytalopus_indigoticus_MZUSP91216:0.288307)[&label=94]:0.119108)[&label=70]:0.08254):0.702543,'Hylopezus.berlepschi_EF640018':0.702543);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=149;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=406;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
