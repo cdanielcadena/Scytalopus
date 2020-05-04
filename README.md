@@ -34,9 +34,11 @@ The file `Scytalopus_ElevationData_47taxa.csv` contains minimum and maximum elev
 
 **Tree files**
 
+The tree files resulting from our phylogenetic analyses are labelled as in the Figures in the Auk paper. Trees labelled with the prefix Fig. 2 were obtained using ASTRAL and RAxML analyses of the nuclear data. Fig. 3 corresponds to trees obtained using RAxMLand MrBayes analyses of the mitochondrial data. Fig. 4 corresponds to the BEAST tree with 90 tips used for diversification analyses.
+
 **High-resolution Figures**
 
-Unfortunately, the figures in our Auk 2020 papers were reproduced at low resolution by the publisher. High-quality images can be downloaded.
+Unfortunately, the figures in our Auk 2020 paper were reproduced at low resolution by the publisher. High-quality images can be downloaded.
 
 ----
 
